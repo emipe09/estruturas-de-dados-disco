@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1691437001 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\smartphones.c
+	"smartphones.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<unistd.h>
+	<time.h>
+	<limits.h>
+
+1690752660 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\smartphones.h
+	<stdlib.h>
+	<stdio.h>
+
+1691437252 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"computadores.h"
+	"smartphones.h"
+	<time.h>
+
+1691434757 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\computadores.h
+	<stdlib.h>
+	<stdio.h>
+
+1691436892 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\computadores.c
+	"computadores.h"
+	"pilha.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<unistd.h>
+	<time.h>
+	<limits.h>
+
+1687973955 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\manutencao.h
+	<stdlib.h>
+	<stdio.h>
+
+1687974496 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\manutencao.c
+	"smartphones.h"
+	"computadores.h"
+	"manutencao.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<unistd.h>
+	<time.h>
+
+1690393303 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\pilha.h
+	"computadores.h"
+
+1690413971 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho01\pilha.c
+	"pilha.h"
+
+1690413971 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\pilha.c
+	"pilha.h"
+
+1690393303 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\pilha.h
+	"computadores.h"
+
+1692640806 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\computadores.h
+	<stdlib.h>
+	<stdio.h>
+
+1692643709 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\smartphones.c
+	"smartphones.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<unistd.h>
+	<time.h>
+	<limits.h>
+
+1692641464 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\smartphones.h
+	<stdlib.h>
+	<stdio.h>
+
+1692657184 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\computadores.c
+	"computadores.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<unistd.h>
+	<time.h>
+	<limits.h>
+
+1692643633 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"computadores.h"
+	"smartphones.h"
+	<time.h>
+
+1692144611 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\metadados.c
+	<string.h>
+	<stdlib.h>
+	"metadados.h"
+
+1692144611 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\metadados.h
+	<stdio.h>
+
+1692630653 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\no.c
+
+1692228793 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\no.h
+	<stdio.h>
+	"computadores.h"
+	"smartphones.h"
+
+1692227307 source:c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\arvore_b.c
+	<limits.h>
+	"arvore_b.h"
+	"metadados.h"
+	"no.h"
+
+1692144611 c:\users\mpoli\onedrive\햞ea de trabalho\ufop\4 periodo\aedes ii\trabalho02\arvore_b.h
+
